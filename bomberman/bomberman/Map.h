@@ -28,4 +28,5 @@ public:
 		Bitmap^ BDestructible, Bitmap^ BBorde, Bitmap^ BPasto);
 	void Draw_Map(int map[15][15], BufferedGraphics ^buffer, Bitmap^ Bsolido,
 		Bitmap^ BDestructible, Bitmap^ BBorde, Bitmap^ BPasto);
+	int get_Map();
 };
