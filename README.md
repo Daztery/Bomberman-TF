@@ -1,5 +1,5 @@
 # Bomberman TF
-Bomberman game for algorithms and data structure class CC68. Develop by @enzoftware , @daztery and @Rodrigo180719
+Este juego fue hecho para el trabajo de final del curso Algoritmos y Estructura de Datos. Desarrollado por @enzoftware , @daztery y @Rodrigo180719
 <ul>
 <li>Colas</li>
 <li>Pilas</li>
